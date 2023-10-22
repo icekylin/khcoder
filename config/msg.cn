@@ -71,7 +71,7 @@ gui_widget::r_cls:
     average:                  平均
     by_docs:                  由文档
     by_words:                 由词汇
-    circular:                 '***not translated*** Circular layout // 円状にデンドログラムを配置'
+    circular:                 圆形布局
     clara:                    CLARA
     color:                    聚类颜色
     complete:                 完全
@@ -548,7 +548,7 @@ gui_window::morpho_detail:
 gui_window::outvar_list:
     catalogue_csv:            '目录: CSV'
     catalogue_xls:            '目录: Excel'
-    crosstab:                 '***not translated*** *Crosstab // ▽クロス集計'
+    crosstab:                 交叉表
     csv:                      CSV 文件
     del:                      删除
     del_ok:                   确定要删除选中的变量吗?
